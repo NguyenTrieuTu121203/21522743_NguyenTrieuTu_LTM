@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "BaiThucHanhLab01/1.0.0": {
+        "runtime": {
+          "BaiThucHanhLab01.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BaiThucHanhLab01/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
