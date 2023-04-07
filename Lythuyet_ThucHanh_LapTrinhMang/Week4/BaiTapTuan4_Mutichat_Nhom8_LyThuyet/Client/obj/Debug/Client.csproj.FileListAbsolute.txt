@@ -1,0 +1,11 @@
+C:\Users\NGUYEN TRIEU TU\Desktop\Sever_Client_Chat\Client\bin\Debug\Client.exe.config
+C:\Users\NGUYEN TRIEU TU\Desktop\Sever_Client_Chat\Client\bin\Debug\Client.exe
+C:\Users\NGUYEN TRIEU TU\Desktop\Sever_Client_Chat\Client\bin\Debug\Client.pdb
+C:\Users\NGUYEN TRIEU TU\Desktop\Sever_Client_Chat\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\NGUYEN TRIEU TU\Desktop\Sever_Client_Chat\Client\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\NGUYEN TRIEU TU\Desktop\Sever_Client_Chat\Client\obj\Debug\Client.ClientForm.resources
+C:\Users\NGUYEN TRIEU TU\Desktop\Sever_Client_Chat\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\NGUYEN TRIEU TU\Desktop\Sever_Client_Chat\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\NGUYEN TRIEU TU\Desktop\Sever_Client_Chat\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\NGUYEN TRIEU TU\Desktop\Sever_Client_Chat\Client\obj\Debug\Client.exe
+C:\Users\NGUYEN TRIEU TU\Desktop\Sever_Client_Chat\Client\obj\Debug\Client.pdb
