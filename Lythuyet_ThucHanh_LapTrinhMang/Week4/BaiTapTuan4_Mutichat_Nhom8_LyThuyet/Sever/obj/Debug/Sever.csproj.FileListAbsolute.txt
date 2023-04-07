@@ -1,0 +1,11 @@
+C:\Users\NGUYEN TRIEU TU\Desktop\Sever_Client_Chat\Sever\bin\Debug\Sever.exe.config
+C:\Users\NGUYEN TRIEU TU\Desktop\Sever_Client_Chat\Sever\bin\Debug\Sever.exe
+C:\Users\NGUYEN TRIEU TU\Desktop\Sever_Client_Chat\Sever\bin\Debug\Sever.pdb
+C:\Users\NGUYEN TRIEU TU\Desktop\Sever_Client_Chat\Sever\obj\Debug\Sever.csproj.AssemblyReference.cache
+C:\Users\NGUYEN TRIEU TU\Desktop\Sever_Client_Chat\Sever\obj\Debug\Sever.csproj.SuggestedBindingRedirects.cache
+C:\Users\NGUYEN TRIEU TU\Desktop\Sever_Client_Chat\Sever\obj\Debug\Sever.SeverForm.resources
+C:\Users\NGUYEN TRIEU TU\Desktop\Sever_Client_Chat\Sever\obj\Debug\Sever.Properties.Resources.resources
+C:\Users\NGUYEN TRIEU TU\Desktop\Sever_Client_Chat\Sever\obj\Debug\Sever.csproj.GenerateResource.cache
+C:\Users\NGUYEN TRIEU TU\Desktop\Sever_Client_Chat\Sever\obj\Debug\Sever.csproj.CoreCompileInputs.cache
+C:\Users\NGUYEN TRIEU TU\Desktop\Sever_Client_Chat\Sever\obj\Debug\Sever.exe
+C:\Users\NGUYEN TRIEU TU\Desktop\Sever_Client_Chat\Sever\obj\Debug\Sever.pdb
