@@ -1,0 +1,13 @@
+C:\Users\Ngo Minh Quan\source\repos\th3.1\th3.1\bin\Debug\th3.1.exe.config
+C:\Users\Ngo Minh Quan\source\repos\th3.1\th3.1\bin\Debug\th3.1.exe
+C:\Users\Ngo Minh Quan\source\repos\th3.1\th3.1\bin\Debug\th3.1.pdb
+C:\Users\Ngo Minh Quan\source\repos\th3.1\th3.1\obj\Debug\client.csproj.AssemblyReference.cache
+C:\Users\Ngo Minh Quan\source\repos\th3.1\th3.1\obj\Debug\client.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ngo Minh Quan\source\repos\th3.1\th3.1\obj\Debug\th3._1.client.resources
+C:\Users\Ngo Minh Quan\source\repos\th3.1\th3.1\obj\Debug\th3._1.Form1.resources
+C:\Users\Ngo Minh Quan\source\repos\th3.1\th3.1\obj\Debug\th3._1.Properties.Resources.resources
+C:\Users\Ngo Minh Quan\source\repos\th3.1\th3.1\obj\Debug\th3._1.sever.resources
+C:\Users\Ngo Minh Quan\source\repos\th3.1\th3.1\obj\Debug\client.csproj.GenerateResource.cache
+C:\Users\Ngo Minh Quan\source\repos\th3.1\th3.1\obj\Debug\client.csproj.CoreCompileInputs.cache
+C:\Users\Ngo Minh Quan\source\repos\th3.1\th3.1\obj\Debug\th3.1.exe
+C:\Users\Ngo Minh Quan\source\repos\th3.1\th3.1\obj\Debug\th3.1.pdb
