@@ -1,0 +1,63 @@
+D:\Nam4\NT106\lab3\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Nam4\NT106\lab3\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Nam4\NT106\lab3\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Nam4\NT106\lab3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\Nam4\NT106\lab3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+D:\Nam4\NT106\lab3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Nam4\NT106\lab3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Nam4\NT106\lab3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Nam4\NT106\lab3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Nam4\NT106\lab3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Nam4\NT106\lab3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Bai1.resources
+D:\Nam4\NT106\lab3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Bai2.resources
+D:\Nam4\NT106\lab3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Bai3.resources
+D:\Nam4\NT106\lab3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Bai4.resources
+D:\Nam4\NT106\lab3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Client.resources
+D:\Nam4\NT106\lab3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Lab3.resources
+D:\Nam4\NT106\lab3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Server.resources
+D:\Nam4\NT106\lab3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TCPclient.resources
+D:\Nam4\NT106\lab3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TCPserver.resources
+D:\Nam4\NT106\lab3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UDPClient.resources
+D:\Nam4\NT106\lab3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UDPServer.resources
+C:\long\Work\LTM\Labs\Lab 3\[NT106.K21.ATCL.1]-Session3_Nhom9\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\long\Work\LTM\Labs\Lab 3\[NT106.K21.ATCL.1]-Session3_Nhom9\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\long\Work\LTM\Labs\Lab 3\[NT106.K21.ATCL.1]-Session3_Nhom9\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\long\Work\LTM\Labs\Lab 3\[NT106.K21.ATCL.1]-Session3_Nhom9\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\long\Work\LTM\Labs\Lab 3\[NT106.K21.ATCL.1]-Session3_Nhom9\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\long\Work\LTM\Labs\Lab 3\[NT106.K21.ATCL.1]-Session3_Nhom9\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Bai1.resources
+C:\long\Work\LTM\Labs\Lab 3\[NT106.K21.ATCL.1]-Session3_Nhom9\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Bai2.resources
+C:\long\Work\LTM\Labs\Lab 3\[NT106.K21.ATCL.1]-Session3_Nhom9\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Bai3.resources
+C:\long\Work\LTM\Labs\Lab 3\[NT106.K21.ATCL.1]-Session3_Nhom9\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Bai4.resources
+C:\long\Work\LTM\Labs\Lab 3\[NT106.K21.ATCL.1]-Session3_Nhom9\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Client.resources
+C:\long\Work\LTM\Labs\Lab 3\[NT106.K21.ATCL.1]-Session3_Nhom9\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Lab3.resources
+C:\long\Work\LTM\Labs\Lab 3\[NT106.K21.ATCL.1]-Session3_Nhom9\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\long\Work\LTM\Labs\Lab 3\[NT106.K21.ATCL.1]-Session3_Nhom9\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Server.resources
+C:\long\Work\LTM\Labs\Lab 3\[NT106.K21.ATCL.1]-Session3_Nhom9\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TCPclient.resources
+C:\long\Work\LTM\Labs\Lab 3\[NT106.K21.ATCL.1]-Session3_Nhom9\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TCPserver.resources
+C:\long\Work\LTM\Labs\Lab 3\[NT106.K21.ATCL.1]-Session3_Nhom9\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UDPClient.resources
+C:\long\Work\LTM\Labs\Lab 3\[NT106.K21.ATCL.1]-Session3_Nhom9\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UDPServer.resources
+C:\long\Work\LTM\Labs\Lab 3\[NT106.K21.ATCL.1]-Session3_Nhom9\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\long\Work\LTM\Labs\Lab 3\[NT106.K21.ATCL.1]-Session3_Nhom9\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\long\Work\LTM\Labs\Lab 3\[NT106.K21.ATCL.1]-Session3_Nhom9\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\long\Work\LTM\Labs\Lab 3\[NT106.K21.ATCL.1]-Session3_Nhom9\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\[NT106.K21.ATCL.1]-Session3_Nhom9\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\[NT106.K21.ATCL.1]-Session3_Nhom9\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\[NT106.K21.ATCL.1]-Session3_Nhom9\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\[NT106.K21.ATCL.1]-Session3_Nhom9\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\[NT106.K21.ATCL.1]-Session3_Nhom9\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+D:\[NT106.K21.ATCL.1]-Session3_Nhom9\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Bai1.resources
+D:\[NT106.K21.ATCL.1]-Session3_Nhom9\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Bai2.resources
+D:\[NT106.K21.ATCL.1]-Session3_Nhom9\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Bai3.resources
+D:\[NT106.K21.ATCL.1]-Session3_Nhom9\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Bai4.resources
+D:\[NT106.K21.ATCL.1]-Session3_Nhom9\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Client.resources
+D:\[NT106.K21.ATCL.1]-Session3_Nhom9\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Lab3.resources
+D:\[NT106.K21.ATCL.1]-Session3_Nhom9\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\[NT106.K21.ATCL.1]-Session3_Nhom9\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Server.resources
+D:\[NT106.K21.ATCL.1]-Session3_Nhom9\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TCPclient.resources
+D:\[NT106.K21.ATCL.1]-Session3_Nhom9\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TCPserver.resources
+D:\[NT106.K21.ATCL.1]-Session3_Nhom9\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UDPClient.resources
+D:\[NT106.K21.ATCL.1]-Session3_Nhom9\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UDPServer.resources
+D:\[NT106.K21.ATCL.1]-Session3_Nhom9\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\[NT106.K21.ATCL.1]-Session3_Nhom9\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\[NT106.K21.ATCL.1]-Session3_Nhom9\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\[NT106.K21.ATCL.1]-Session3_Nhom9\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
