@@ -1,0 +1,11 @@
+D:\UIT Learn\21520479_21520328_21521964\Lab3\Bai3\TCP Client Server\TCP Client Server\bin\Debug\TCP Client Server.exe.config
+D:\UIT Learn\21520479_21520328_21521964\Lab3\Bai3\TCP Client Server\TCP Client Server\bin\Debug\TCP Client Server.exe
+D:\UIT Learn\21520479_21520328_21521964\Lab3\Bai3\TCP Client Server\TCP Client Server\bin\Debug\TCP Client Server.pdb
+D:\UIT Learn\21520479_21520328_21521964\Lab3\Bai3\TCP Client Server\TCP Client Server\obj\Debug\Client.csproj.AssemblyReference.cache
+D:\UIT Learn\21520479_21520328_21521964\Lab3\Bai3\TCP Client Server\TCP Client Server\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+D:\UIT Learn\21520479_21520328_21521964\Lab3\Bai3\TCP Client Server\TCP Client Server\obj\Debug\TCP_Client_Server.Client.resources
+D:\UIT Learn\21520479_21520328_21521964\Lab3\Bai3\TCP Client Server\TCP Client Server\obj\Debug\TCP_Client_Server.Properties.Resources.resources
+D:\UIT Learn\21520479_21520328_21521964\Lab3\Bai3\TCP Client Server\TCP Client Server\obj\Debug\Client.csproj.GenerateResource.cache
+D:\UIT Learn\21520479_21520328_21521964\Lab3\Bai3\TCP Client Server\TCP Client Server\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\UIT Learn\21520479_21520328_21521964\Lab3\Bai3\TCP Client Server\TCP Client Server\obj\Debug\TCP Client Server.exe
+D:\UIT Learn\21520479_21520328_21521964\Lab3\Bai3\TCP Client Server\TCP Client Server\obj\Debug\TCP Client Server.pdb

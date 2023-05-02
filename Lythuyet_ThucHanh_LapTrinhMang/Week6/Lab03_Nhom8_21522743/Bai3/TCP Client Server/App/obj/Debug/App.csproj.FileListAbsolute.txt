@@ -1,0 +1,18 @@
+D:\UIT Learn\21520479_21520328_21521964\Lab3\Bai3\TCP Client Server\App\bin\Debug\App.exe.config
+D:\UIT Learn\21520479_21520328_21521964\Lab3\Bai3\TCP Client Server\App\bin\Debug\App.exe
+D:\UIT Learn\21520479_21520328_21521964\Lab3\Bai3\TCP Client Server\App\bin\Debug\App.pdb
+D:\UIT Learn\21520479_21520328_21521964\Lab3\Bai3\TCP Client Server\App\bin\Debug\Server.exe
+D:\UIT Learn\21520479_21520328_21521964\Lab3\Bai3\TCP Client Server\App\bin\Debug\TCP Client Server.exe
+D:\UIT Learn\21520479_21520328_21521964\Lab3\Bai3\TCP Client Server\App\bin\Debug\Server.pdb
+D:\UIT Learn\21520479_21520328_21521964\Lab3\Bai3\TCP Client Server\App\bin\Debug\Server.exe.config
+D:\UIT Learn\21520479_21520328_21521964\Lab3\Bai3\TCP Client Server\App\bin\Debug\TCP Client Server.pdb
+D:\UIT Learn\21520479_21520328_21521964\Lab3\Bai3\TCP Client Server\App\bin\Debug\TCP Client Server.exe.config
+D:\UIT Learn\21520479_21520328_21521964\Lab3\Bai3\TCP Client Server\App\obj\Debug\App.csproj.AssemblyReference.cache
+D:\UIT Learn\21520479_21520328_21521964\Lab3\Bai3\TCP Client Server\App\obj\Debug\App.csproj.SuggestedBindingRedirects.cache
+D:\UIT Learn\21520479_21520328_21521964\Lab3\Bai3\TCP Client Server\App\obj\Debug\App.App.resources
+D:\UIT Learn\21520479_21520328_21521964\Lab3\Bai3\TCP Client Server\App\obj\Debug\App.Properties.Resources.resources
+D:\UIT Learn\21520479_21520328_21521964\Lab3\Bai3\TCP Client Server\App\obj\Debug\App.csproj.GenerateResource.cache
+D:\UIT Learn\21520479_21520328_21521964\Lab3\Bai3\TCP Client Server\App\obj\Debug\App.csproj.CoreCompileInputs.cache
+D:\UIT Learn\21520479_21520328_21521964\Lab3\Bai3\TCP Client Server\App\obj\Debug\App.csproj.CopyComplete
+D:\UIT Learn\21520479_21520328_21521964\Lab3\Bai3\TCP Client Server\App\obj\Debug\App.exe
+D:\UIT Learn\21520479_21520328_21521964\Lab3\Bai3\TCP Client Server\App\obj\Debug\App.pdb
