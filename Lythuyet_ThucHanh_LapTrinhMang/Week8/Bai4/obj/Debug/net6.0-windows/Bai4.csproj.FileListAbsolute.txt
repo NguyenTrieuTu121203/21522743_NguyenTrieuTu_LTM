@@ -1,0 +1,34 @@
+C:\Users\Dean\Desktop\LapTrinhMang\New folder\Bai4\bin\Debug\net6.0-windows\Bai4.exe
+C:\Users\Dean\Desktop\LapTrinhMang\New folder\Bai4\bin\Debug\net6.0-windows\Bai4.deps.json
+C:\Users\Dean\Desktop\LapTrinhMang\New folder\Bai4\bin\Debug\net6.0-windows\Bai4.runtimeconfig.json
+C:\Users\Dean\Desktop\LapTrinhMang\New folder\Bai4\bin\Debug\net6.0-windows\Bai4.dll
+C:\Users\Dean\Desktop\LapTrinhMang\New folder\Bai4\bin\Debug\net6.0-windows\Bai4.pdb
+C:\Users\Dean\Desktop\LapTrinhMang\New folder\Bai4\obj\Debug\net6.0-windows\Bai4.csproj.AssemblyReference.cache
+C:\Users\Dean\Desktop\LapTrinhMang\New folder\Bai4\obj\Debug\net6.0-windows\Bai4.MainForm.resources
+C:\Users\Dean\Desktop\LapTrinhMang\New folder\Bai4\obj\Debug\net6.0-windows\Bai4.csproj.GenerateResource.cache
+C:\Users\Dean\Desktop\LapTrinhMang\New folder\Bai4\obj\Debug\net6.0-windows\Bai4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dean\Desktop\LapTrinhMang\New folder\Bai4\obj\Debug\net6.0-windows\Bai4.AssemblyInfoInputs.cache
+C:\Users\Dean\Desktop\LapTrinhMang\New folder\Bai4\obj\Debug\net6.0-windows\Bai4.AssemblyInfo.cs
+C:\Users\Dean\Desktop\LapTrinhMang\New folder\Bai4\obj\Debug\net6.0-windows\Bai4.csproj.CoreCompileInputs.cache
+C:\Users\Dean\Desktop\LapTrinhMang\New folder\Bai4\obj\Debug\net6.0-windows\Bai4.dll
+C:\Users\Dean\Desktop\LapTrinhMang\New folder\Bai4\obj\Debug\net6.0-windows\refint\Bai4.dll
+C:\Users\Dean\Desktop\LapTrinhMang\New folder\Bai4\obj\Debug\net6.0-windows\Bai4.pdb
+C:\Users\Dean\Desktop\LapTrinhMang\New folder\Bai4\obj\Debug\net6.0-windows\Bai4.genruntimeconfig.cache
+C:\Users\Dean\Desktop\LapTrinhMang\New folder\Bai4\obj\Debug\net6.0-windows\ref\Bai4.dll
+C:\Users\NGUYEN TRIEU TU\Desktop\Bai4\bin\Debug\net6.0-windows\Bai4.exe
+C:\Users\NGUYEN TRIEU TU\Desktop\Bai4\bin\Debug\net6.0-windows\Bai4.deps.json
+C:\Users\NGUYEN TRIEU TU\Desktop\Bai4\bin\Debug\net6.0-windows\Bai4.runtimeconfig.json
+C:\Users\NGUYEN TRIEU TU\Desktop\Bai4\bin\Debug\net6.0-windows\Bai4.dll
+C:\Users\NGUYEN TRIEU TU\Desktop\Bai4\bin\Debug\net6.0-windows\Bai4.pdb
+C:\Users\NGUYEN TRIEU TU\Desktop\Bai4\obj\Debug\net6.0-windows\Bai4.csproj.AssemblyReference.cache
+C:\Users\NGUYEN TRIEU TU\Desktop\Bai4\obj\Debug\net6.0-windows\Bai4.MainForm.resources
+C:\Users\NGUYEN TRIEU TU\Desktop\Bai4\obj\Debug\net6.0-windows\Bai4.csproj.GenerateResource.cache
+C:\Users\NGUYEN TRIEU TU\Desktop\Bai4\obj\Debug\net6.0-windows\Bai4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NGUYEN TRIEU TU\Desktop\Bai4\obj\Debug\net6.0-windows\Bai4.AssemblyInfoInputs.cache
+C:\Users\NGUYEN TRIEU TU\Desktop\Bai4\obj\Debug\net6.0-windows\Bai4.AssemblyInfo.cs
+C:\Users\NGUYEN TRIEU TU\Desktop\Bai4\obj\Debug\net6.0-windows\Bai4.csproj.CoreCompileInputs.cache
+C:\Users\NGUYEN TRIEU TU\Desktop\Bai4\obj\Debug\net6.0-windows\Bai4.dll
+C:\Users\NGUYEN TRIEU TU\Desktop\Bai4\obj\Debug\net6.0-windows\refint\Bai4.dll
+C:\Users\NGUYEN TRIEU TU\Desktop\Bai4\obj\Debug\net6.0-windows\Bai4.pdb
+C:\Users\NGUYEN TRIEU TU\Desktop\Bai4\obj\Debug\net6.0-windows\Bai4.genruntimeconfig.cache
+C:\Users\NGUYEN TRIEU TU\Desktop\Bai4\obj\Debug\net6.0-windows\ref\Bai4.dll
