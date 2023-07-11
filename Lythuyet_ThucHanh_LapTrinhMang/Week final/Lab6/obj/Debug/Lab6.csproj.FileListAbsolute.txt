@@ -1,0 +1,46 @@
+C:\Users\MSIs\Documents\Hoc_Tap\LapTrinhMangCB\LyThuyet\Group\Lab6\Lab6\bin\Debug\Lab6.exe.config
+C:\Users\MSIs\Documents\Hoc_Tap\LapTrinhMangCB\LyThuyet\Group\Lab6\Lab6\bin\Debug\Lab6.exe
+C:\Users\MSIs\Documents\Hoc_Tap\LapTrinhMangCB\LyThuyet\Group\Lab6\Lab6\bin\Debug\Lab6.pdb
+C:\Users\MSIs\Documents\Hoc_Tap\LapTrinhMangCB\LyThuyet\Group\Lab6\Lab6\bin\Debug\Universal.Common.Net.Ftp.dll
+C:\Users\MSIs\Documents\Hoc_Tap\LapTrinhMangCB\LyThuyet\Group\Lab6\Lab6\bin\Debug\Universal.Common.Net.Ftp.xml
+C:\Users\MSIs\Documents\Hoc_Tap\LapTrinhMangCB\LyThuyet\Group\Lab6\Lab6\obj\Debug\Lab6.csproj.AssemblyReference.cache
+C:\Users\MSIs\Documents\Hoc_Tap\LapTrinhMangCB\LyThuyet\Group\Lab6\Lab6\obj\Debug\Lab6.csproj.SuggestedBindingRedirects.cache
+C:\Users\MSIs\Documents\Hoc_Tap\LapTrinhMangCB\LyThuyet\Group\Lab6\Lab6\obj\Debug\Lab6.Form1.resources
+C:\Users\MSIs\Documents\Hoc_Tap\LapTrinhMangCB\LyThuyet\Group\Lab6\Lab6\obj\Debug\Lab6.Properties.Resources.resources
+C:\Users\MSIs\Documents\Hoc_Tap\LapTrinhMangCB\LyThuyet\Group\Lab6\Lab6\obj\Debug\Lab6.csproj.GenerateResource.cache
+C:\Users\MSIs\Documents\Hoc_Tap\LapTrinhMangCB\LyThuyet\Group\Lab6\Lab6\obj\Debug\Lab6.csproj.CoreCompileInputs.cache
+C:\Users\MSIs\Documents\Hoc_Tap\LapTrinhMangCB\LyThuyet\Group\Lab6\Lab6\obj\Debug\Lab6.csproj.CopyComplete
+C:\Users\MSIs\Documents\Hoc_Tap\LapTrinhMangCB\LyThuyet\Group\Lab6\Lab6\obj\Debug\Lab6.exe
+C:\Users\MSIs\Documents\Hoc_Tap\LapTrinhMangCB\LyThuyet\Group\Lab6\Lab6\obj\Debug\Lab6.pdb
+D:\HOC\Code\ltmcb\g9\Group09-ltmcb\Lab6\Lab6\bin\Debug\Lab6.exe.config
+D:\HOC\Code\ltmcb\g9\Group09-ltmcb\Lab6\Lab6\bin\Debug\Lab6.exe
+D:\HOC\Code\ltmcb\g9\Group09-ltmcb\Lab6\Lab6\bin\Debug\Lab6.pdb
+D:\HOC\Code\ltmcb\g9\Group09-ltmcb\Lab6\Lab6\bin\Debug\Universal.Common.Net.Ftp.dll
+D:\HOC\Code\ltmcb\g9\Group09-ltmcb\Lab6\Lab6\bin\Debug\Universal.Common.Net.Ftp.xml
+D:\HOC\Code\ltmcb\g9\Group09-ltmcb\Lab6\Lab6\obj\Debug\Lab6.csproj.AssemblyReference.cache
+D:\HOC\Code\ltmcb\g9\Group09-ltmcb\Lab6\Lab6\obj\Debug\Lab6.csproj.SuggestedBindingRedirects.cache
+D:\HOC\Code\ltmcb\g9\Group09-ltmcb\Lab6\Lab6\obj\Debug\Lab6.Form1.resources
+D:\HOC\Code\ltmcb\g9\Group09-ltmcb\Lab6\Lab6\obj\Debug\Lab6.Properties.Resources.resources
+D:\HOC\Code\ltmcb\g9\Group09-ltmcb\Lab6\Lab6\obj\Debug\Lab6.csproj.GenerateResource.cache
+D:\HOC\Code\ltmcb\g9\Group09-ltmcb\Lab6\Lab6\obj\Debug\Lab6.csproj.CoreCompileInputs.cache
+D:\HOC\Code\ltmcb\g9\Group09-ltmcb\Lab6\Lab6\obj\Debug\Lab6.csproj.CopyComplete
+D:\HOC\Code\ltmcb\g9\Group09-ltmcb\Lab6\Lab6\obj\Debug\Lab6.exe
+D:\HOC\Code\ltmcb\g9\Group09-ltmcb\Lab6\Lab6\obj\Debug\Lab6.pdb
+D:\HOC\Code\ltmcb\g9\Group09-ltmcb\Lab6\Lab6\bin\Debug\FluentFTP.dll
+D:\HOC\Code\ltmcb\g9\Group09-ltmcb\Lab6\Lab6\bin\Debug\FluentFTP.xml
+C:\Users\NGUYEN TRIEU TU\Desktop\Lab6\Lab6\bin\Debug\Lab6.exe.config
+C:\Users\NGUYEN TRIEU TU\Desktop\Lab6\Lab6\bin\Debug\Lab6.exe
+C:\Users\NGUYEN TRIEU TU\Desktop\Lab6\Lab6\bin\Debug\Lab6.pdb
+C:\Users\NGUYEN TRIEU TU\Desktop\Lab6\Lab6\bin\Debug\FluentFTP.dll
+C:\Users\NGUYEN TRIEU TU\Desktop\Lab6\Lab6\bin\Debug\Universal.Common.Net.Ftp.dll
+C:\Users\NGUYEN TRIEU TU\Desktop\Lab6\Lab6\bin\Debug\FluentFTP.xml
+C:\Users\NGUYEN TRIEU TU\Desktop\Lab6\Lab6\bin\Debug\Universal.Common.Net.Ftp.xml
+C:\Users\NGUYEN TRIEU TU\Desktop\Lab6\Lab6\obj\Debug\Lab6.csproj.AssemblyReference.cache
+C:\Users\NGUYEN TRIEU TU\Desktop\Lab6\Lab6\obj\Debug\Lab6.csproj.SuggestedBindingRedirects.cache
+C:\Users\NGUYEN TRIEU TU\Desktop\Lab6\Lab6\obj\Debug\Lab6.Form1.resources
+C:\Users\NGUYEN TRIEU TU\Desktop\Lab6\Lab6\obj\Debug\Lab6.Properties.Resources.resources
+C:\Users\NGUYEN TRIEU TU\Desktop\Lab6\Lab6\obj\Debug\Lab6.csproj.GenerateResource.cache
+C:\Users\NGUYEN TRIEU TU\Desktop\Lab6\Lab6\obj\Debug\Lab6.csproj.CoreCompileInputs.cache
+C:\Users\NGUYEN TRIEU TU\Desktop\Lab6\Lab6\obj\Debug\Lab6.csproj.CopyComplete
+C:\Users\NGUYEN TRIEU TU\Desktop\Lab6\Lab6\obj\Debug\Lab6.exe
+C:\Users\NGUYEN TRIEU TU\Desktop\Lab6\Lab6\obj\Debug\Lab6.pdb
